@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: indium01/spring-boot-mongo:V15
+        image: indium01/spring-boot-mongo:V16
         ports:
         - containerPort: 8080
         env:
